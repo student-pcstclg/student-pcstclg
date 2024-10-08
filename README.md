@@ -1,4 +1,4 @@
-![logo](https://github.com/student-pcstclg/student-pcstclg/blob/main/sajnigithub.png?raw=true)
+![logo](banner git hub.png)
 <h1 align="center">Hi 👋, I'm Sajni Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*hZJV9DjRZW9DJ4XfRwQaIA.png">
